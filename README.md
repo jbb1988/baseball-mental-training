@@ -47,6 +47,10 @@ These techniques have been implemented in **[Mind & Muscle](https://mindandmuscl
 2. **Coaches**: Use these as team building blocks and integrate into practice routines
 3. **Parents**: Help young athletes develop mental toughness from an early age
 
+### 🏟️ Finding Practice Facilities
+
+These mental training techniques are most effective when practiced in realistic environments. Find local batting cages, indoor facilities, and training centers at **[WhereToHit.com](https://wheretohit.com)** - a comprehensive directory of 14,000+ baseball and softball facilities across the United States.
+
 ## 🎓 Evidence-Based Approach
 
 All techniques in this repository are grounded in:
